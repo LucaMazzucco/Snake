@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1416332467 source:d:\luca\programmi in c\snakes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1416332467 source:d:\luca\desktop\materiale didattico politecnico\algoritmi e programmazione\programmi in c\snakes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
